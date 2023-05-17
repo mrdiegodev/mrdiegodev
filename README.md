@@ -1,5 +1,5 @@
 <h1>Hi there! 👋</h1>
-<h3>I'm mrdiegodev, an experienced Biomedical Electronics Engineer specializing in clinical neuronavigation. Welcome to my GitHub profile!</h3>
+<h3>I'm mrdiegodev, an experienced Biomedical Electronics Engineer specializing in clinical neuronavigation. </br> Welcome to my GitHub profile!</h3>
 
 <b>About Me</b>
 🔭 I have over 3 years of hands-on experience in the field of clinical neuronavigation, working with advanced technologies to guide surgeons during complex brain procedures. </br>
