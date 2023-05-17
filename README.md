@@ -11,7 +11,7 @@
 🐧 Proficient in Linux environments, I am accustomed to working with its tools and leveraging its capabilities for efficient software development.
 </br>
 🌱 I have a keen interest in the exciting domains of artificial intelligence, machine learning, and the analysis of medical image data for the advancement of healthcare.</br>
-<h4>My GitHub Projects</h4></br>
+<h4>My GitHub Projects</h4>
 🧠More coming..</br>
 📫 Feel free to reach out to me at [hola@mrdiego.dev] for collaborations, project inquiries, or any questions you may have.</br>
 🔗 Connect with me on LinkedIn to stay updated on my latest work and professional achievements.
