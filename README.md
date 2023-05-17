@@ -12,7 +12,7 @@
 </br>
 🌱 I have a keen interest in the exciting domains of artificial intelligence, machine learning, and the analysis of medical image data for the advancement of healthcare.</br>
 <h4>My GitHub Projects</h4>
-🧠More coming..</br>
+🧠More coming.. </br> </br> </br>
 📫 Feel free to reach out to me at [hola@mrdiego.dev] for collaborations, project inquiries, or any questions you may have.</br>
 🔗 Connect with me on LinkedIn to stay updated on my latest work and professional achievements.
 Thank you for visiting my GitHub profile! I look forward to sharing and collaborating on exciting projects with the community.
