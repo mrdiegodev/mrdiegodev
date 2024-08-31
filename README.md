@@ -2,7 +2,7 @@
 <h3>I'm mrdiegodev, an experienced Biomedical Electronics Engineer specializing in clinical neuronavigation. </br> Welcome to my GitHub profile!</h3>
 
 <h4>About Me</h4></br>
-🔭 I have over 3 years of hands-on experience in the field of clinical neuronavigation, working with advanced technologies to guide surgeons during complex brain procedures. </br>
+🔭 I have over 5 years of hands-on experience in the field of clinical neuronavigation, working with advanced technologies to guide surgeons during complex brain procedures. </br>
 
 🎓 Currently, I am pursuing a Master's degree in Computer Science to complement my expertise and expand my knowledge in the intersection of electronics and computational sciences.</br>
 
